@@ -1,6 +1,4 @@
 import Start
-
-
 def print_hi():
     Start.BigData()
 if __name__ == '__main__':
